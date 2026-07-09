@@ -21,12 +21,9 @@
 
 ![img](https://github.com/nocturnalllll/iOS-Clipboard/blob/main/images/IMG_3214.png?raw=true)
 ### コピー
-クリップボードからコピーしたテキストをリストの先頭に移動。これにより、よく使う項目ほどリストの上位に表示されます。
-
-<br>
+クリップボードからコピーしたテキストをリストの先頭に移動。これにより、よく使う項目ほどリストの上位に表示され.
 
 
 
-![画像](https://drive.google.com/uc?export=view&id=17NJaU654m6wXaPCIwTkucwq5rBbtPQ-N/view?usp=drivesdk)
 
-
+![画像](https://drive.google.com/uc?export=view&id=17NJaU654m6wXaPCIwTkucwq5rBbtPQ-N)
